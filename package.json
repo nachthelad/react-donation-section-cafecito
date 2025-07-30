@@ -30,12 +30,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nachthelad/react-donation-section.git"
+    "url": "git+https://github.com/nachthelad/react-donation-section-cafecito.git"
   },
   "bugs": {
-    "url": "https://github.com/nachthelad/react-donation-section/issues"
+    "url": "https://github.com/nachthelad/react-donation-section-cafecito/issues"
   },
-  "homepage": "https://github.com/nachthelad/react-donation-section#readme",
+  "homepage": "https://github.com/nachthelad/react-donation-section-cafecito#readme",
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
