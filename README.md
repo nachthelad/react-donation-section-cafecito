@@ -62,7 +62,7 @@ import DonationSection from 'react-donation-section';
 |------|------|---------|-------------|
 | `title` | `string` | `"¿Te gustó la app? Invítame un café"` | The title text displayed above the button |
 | `buttonText` | `string` | `"Invitar un cafecito"` | The text displayed on the button |
-| `buttonUrl` | `string` | `"https://cafecito.app/nachthelad"` | The URL the button links to |
+| `buttonUrl` | `string` | `"https://cafecito.app/tu-usuario"` | The URL the button links to |
 | `buttonIcon` | `string` | `"☕"` | The icon displayed next to the button text |
 | `className` | `string` | `""` | Additional CSS classes to apply |
 | `variant` | `"default" \| "minimal" \| "card"` | `"default"` | The visual style variant |
